@@ -1,0 +1,55 @@
+K=2
+::: P1  :::	 utilization: 0.14557401712936185	 flow: 48.52467237645396proc/sec	 average job num: 0.17031776325931164
+::: P2  :::	 utilization: 0.14557401712936185	 flow: 48.52467237645396proc/sec	 average job num: 0.17031776325931164
+::: SD1 :::	 utilization: 0.14506855502708527	 flow: 14.506855502708527proc/sec	 average job num: 0.16962631327010808
+::: SD2 :::	 utilization: 0.17468882055523421	 flow: 14.557401712936183proc/sec	 average job num: 0.21157018474370481
+::: UD1 :::	 utilization: 0.9603841375490063	 flow: 48.019206877450316proc/sec	 average job num: 12.119278664333137
+::: UD2 :::	 utilization: 0.9603841375490063	 flow: 48.019206877450316proc/sec	 average job num: 12.119278664333137
+system responce: 257.6009149124206
+
+K=3
+::: P1  :::	 utilization: 0.20974994140814687	 flow: 69.91664713604895proc/sec	 average job num: 0.2651152522770217
+::: P2  :::	 utilization: 0.20974994140814687	 flow: 69.91664713604895proc/sec	 average job num: 0.2651152522770217
+::: SD1 :::	 utilization: 0.2090216476615895	 flow: 20.90216476615895proc/sec	 average job num: 0.26395310960915275
+::: SD2 :::	 utilization: 0.2516999296897762	 flow: 20.974994140814683proc/sec	 average job num: 0.335838930285521
+::: UD1 :::	 utilization: 0.9225113132710172	 flow: 46.12556566355086proc/sec	 average job num: 7.955607744956023
+::: UD2 :::	 utilization: 0.9225113132710172	 flow: 46.12556566355086proc/sec	 average job num: 7.955607744956023
+::: UD3 :::	 utilization: 0.9225113132710172	 flow: 46.12556566355086proc/sec	 average job num: 7.955607744956023
+system responce: 178.78431692636204
+
+K=4
+::: P1  :::	 utilization: 0.26862989145147975	 flow: 89.54329715049325proc/sec	 average job num: 0.366346897216249
+::: P2  :::	 utilization: 0.26862989145147975	 flow: 89.54329715049325proc/sec	 average job num: 0.366346897216249
+::: SD1 :::	 utilization: 0.2676971547423819	 flow: 26.769715474238193proc/sec	 average job num: 0.3646156510991686
+::: SD2 :::	 utilization: 0.3223558697417757	 flow: 26.862989145147978proc/sec	 average job num: 0.47397005219245125
+::: UD1 :::	 utilization: 0.8861055417336462	 flow: 44.30527708668231proc/sec	 average job num: 5.85709947035379
+::: UD2 :::	 utilization: 0.8861055417336462	 flow: 44.30527708668231proc/sec	 average job num: 5.85709947035379
+::: UD3 :::	 utilization: 0.8861055417336462	 flow: 44.30527708668231proc/sec	 average job num: 5.85709947035379
+::: UD4 :::	 utilization: 0.8861055417336462	 flow: 44.30527708668231proc/sec	 average job num: 5.85709947035379
+system responce: 139.59727190960538
+
+K=5
+::: P1  :::	 utilization: 0.32245651544555054	 flow: 107.48550514851685proc/sec	 average job num: 0.47363799933060347
+::: P2  :::	 utilization: 0.32245651544555054	 flow: 107.48550514851685proc/sec	 average job num: 0.47363799933060347
+::: SD1 :::	 utilization: 0.3213368819326205	 flow: 32.133688193262046proc/sec	 average job num: 0.4712303445528944
+::: SD2 :::	 utilization: 0.38694781853466065	 flow: 32.24565154455505proc/sec	 average job num: 0.6267177850323661
+::: UD1 :::	 utilization: 0.8509269128928116	 flow: 42.54634564464058proc/sec	 average job num: 4.590947215190866
+::: UD2 :::	 utilization: 0.8509269128928116	 flow: 42.54634564464058proc/sec	 average job num: 4.590947215190866
+::: UD3 :::	 utilization: 0.8509269128928116	 flow: 42.54634564464058proc/sec	 average job num: 4.590947215190866
+::: UD4 :::	 utilization: 0.8509269128928116	 flow: 42.54634564464058proc/sec	 average job num: 4.590947215190866
+::: UD5 :::	 utilization: 0.8509269128928116	 flow: 42.54634564464058proc/sec	 average job num: 4.590947215190866
+system responce: 116.294750466384
+
+K=6
+::: P1  :::	 utilization: 0.3714203936048865	 flow: 123.8067978682955proc/sec	 average job num: 0.5862001401004988
+::: P2  :::	 utilization: 0.3714203936048865	 flow: 123.8067978682955proc/sec	 average job num: 0.5862001401004988
+::: SD1 :::	 utilization: 0.3701307477142116	 flow: 37.01307477142116proc/sec	 average job num: 0.5830042504582332
+::: SD2 :::	 utilization: 0.4457044723258638	 flow: 37.142039360488646proc/sec	 average job num: 0.7942057681305478
+::: UD1 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+::: UD2 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+::: UD3 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+::: UD4 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+::: UD5 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+::: UD6 :::	 utilization: 0.8167809554076317	 flow: 40.83904777038158proc/sec	 average job num: 3.741730668022626
+system responce: 100.96376140264432
+
